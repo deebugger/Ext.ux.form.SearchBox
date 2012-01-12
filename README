@@ -1,0 +1,2 @@
+Ext.ux.form.SearchBox is a simple search box with two buttons, and serves as a quick way to get something like this without having to redefine it again in all sorts of places.
+
